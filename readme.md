@@ -21,5 +21,5 @@ Each entry follows a consistent format:
 Figures are stored under `\figs\<book-slug>\` and embedded inline at the point of reference.
 
 Books
-1. [Rethinking Public Institutions](/books/1.rethinking_pub_institutions)
+1. [Rethinking Public Institutions](TLDR/books/1.rethinking_pub_institutions)
 
