@@ -21,3 +21,5 @@ Each entry follows a consistent format:
 
 Figures are stored under `\figs\<book-slug>\` and embedded inline at the point of reference.
 
+1. [Rethinking Institutions](/books/rethinking_institutions.md)
+
